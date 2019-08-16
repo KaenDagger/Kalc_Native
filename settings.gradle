@@ -1,0 +1,2 @@
+rootProject.name = 'Kalc_Native'
+include ':kalc_native'
