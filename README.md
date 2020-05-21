@@ -7,7 +7,7 @@ Native calculator made with Kotlin/Native
 
 
 
-## Made with :blue_heart: & [KParser](https://github.com/KaenDagger/KParser)
+## Made with :blue_heart: & [KParser](https://github.com/RotBolt/KParser)
 
 
 
